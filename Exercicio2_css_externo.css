@@ -1,0 +1,27 @@
+#divA{
+    background-color: #ff6347;
+    width: 500px;
+    height: 500px;
+}
+#divB {
+    background-color: #8a2345;
+    width: 50%;
+    height: 50%;
+}
+#paragrafoC{
+    color: #ffff00;
+    background-color: #4b0062;
+    font-size: 22px;
+    font-family: 'Georgia', serif;
+    font-weight: normal;
+}
+#divD{
+    width: 50%;
+    height: 50vh;
+    background-color: #ff8c00;
+}
+#divE{
+    width: 75vw;
+    height: 50%;
+    background-color: #20b2aa;
+}
